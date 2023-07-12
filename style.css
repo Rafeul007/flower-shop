@@ -37,6 +37,7 @@ align-items: center;
     background-color: black;
     color: white;
     padding-top: 80px;
+    margin-top: 40px;
     
 }
 .body-contaner{
@@ -73,6 +74,7 @@ background-image:url(/images/Rectangle\ 9.png);
     text-align: center;
     background-position: center;
     background-size: 75% auto ;
+    margin-top: 30px;
     
     
         
