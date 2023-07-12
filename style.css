@@ -34,5 +34,46 @@ align-items: center;
 .foot-contaner{
     text-align: center;
     font-size: 15px;
+    background-color: black;
+    color: white;
+    padding-top: 80px;
     
+}
+.body-contaner{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    margin-top: 30px;
+   
+    
+
+}
+.body-left{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.inst-dow{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inst-top{
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.font-size-h{
+    font-size: 40px;
+}
+.img-search{
+background-image:url(/images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    background-size: 75% auto ;
+    
+    
+        
 }
